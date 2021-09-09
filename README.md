@@ -1,5 +1,9 @@
 # hearth-home-search
-
+## About
+* Backend: Flask server
+* Frontend: React app
+* Files to review: `/app.py`, `/model/home.py`, `/api/home_search_api_handler.py`, `/frontend/src/App.js`, `/frontend/src/Components/HomeList.jsx`, `/frontend/src/Components/SearchBar.jsx`, `/frontend/src/Components/SearchPage.jsx`.
+* Line `"proxy": "http://localhost:5000"` in package.json points the api call to the server.
 
 ## Instructions
 
